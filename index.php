@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Apache Test Page</title>
+</head>
 <body>
 
-<h1>Welcome Page</h1>
-
-<?php
-$name = "Aditya";
-echo "Hello, " . $name . "! Welcome to PHP.";
-?>
+    <h1>It works!</h1>
+    <p>This is the default Apache index.html page.</p>
 
 </body>
 </html>
