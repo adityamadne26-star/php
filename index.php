@@ -1,12 +1,13 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h1>Welcome Page</h1>
 
 <?php
-echo "Hello From Unnat!";
+$name = "Aditya";
+echo "Hello, " . $name . "! Welcome to PHP.";
 ?>
 
 </body>
-</html> 
+</html>
